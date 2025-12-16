@@ -1,0 +1,8 @@
+.DS_Store
+**/.DS_Store
+*.bin
+**/*.bin
+.cph/
+**/.cph/
+.vscode/
+**/.vscode/
