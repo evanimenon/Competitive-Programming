@@ -1,9 +1,20 @@
+# Prerequisites
 .DS_Store
+.DS_Store?
 **/.DS_Store
-*.bin
-**/*.bin
-.cph/
-**/.cph/
+._*
+
+# Editor / IDE
 .vscode/
-**/.vscode/
-.DS_Store
+.idea/
+*.swp
+*.swo
+
+# Tools
+.cph/
+
+# Compiled Binaries
+*.o
+*.out
+*.exe
+*.bin
